@@ -2,13 +2,14 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/SniderAmazan01/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration]()
-  - [osTicket: Ticket Lifecycle Examples]()
+  - [osTicket: Post-Installation Configuration](https://github.com/SniderAmazan01/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/SniderAmazan01/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
-
+  - [Setting Up Active Directory using Azure VMs](https://github.com/SniderAmazan01/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/SniderAmazan01/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/SniderAmazan01/Setting-UP-A-VPN)
 
 
