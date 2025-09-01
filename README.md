@@ -1,4 +1,4 @@
-<h1>Hi, I'm Snider, an IT Professional</a>
+<h1>Hi, I'm Snider</a>
 
 <h2> Information Technology Projects:</h2>
 
